@@ -47,6 +47,12 @@
       "name": "Mcclain Chandler",
       "phone": "(244) 969-530",
       "dateOfbirth": "2012-07-29"
+    },
+     {
+      "id": 3,
+      "name": "Nuno Baio",
+      "phone": "(244) 969-530",
+      "dateOfbirth": "2012-07-29"
     }
   ]
 }
